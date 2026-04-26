@@ -1,4 +1,4 @@
-## Trabalhos de AI
+# Trabalhos de AI
 
 Uma coleção de trabalhos realizados no meu 12º ano para a disciplina de Aplicações Informáticas desenvolvidos em p5.js.
 
